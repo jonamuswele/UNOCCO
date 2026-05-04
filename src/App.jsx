@@ -465,7 +465,7 @@ function Footer({ go }) {
         <div className="ft-top">
           <div>
             <div className="ft-logo">UN<b>OC</b>CO</div>
-            <div className="ft-tagline">Union des ONG Communautaire au Congo — Kinshasa, République Démocratique du Congo</div>
+            <div className="ft-tagline" style={{ textAlign: "center" }}>Union des ONG Communautaire au Congo — Kinshasa, République Démocratique du Congo</div>
           </div>
           <div className="ft-col">
             <h5>Navigation</h5>
