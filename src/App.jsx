@@ -858,7 +858,6 @@ function Contact({ go }) {
           <div className="cinfo-list">
             {[{ico:"📍",l:"Siège social",v:"Av. MASWA n°47, Kingasani, Kinshasa — RDC"},
               {ico:"👤",l:"Coordonnateur",v:"M. Emmanuel KALEMA KABULU"},
-              {ico:"🔧",l:"Direction Technique",v:"M. Jonathan KALEME MUSWELE"},
               {ico:"🌍",l:"Zones d'intervention",v:"Kinshasa · Kivu · Sankuru · Maï-Ndombe"}].map((c,i) => (
               <div className="cinfo-row" key={i}>
                 <div className="cinfo-ico">{c.ico}</div>
